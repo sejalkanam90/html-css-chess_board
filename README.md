@@ -32,7 +32,6 @@ open index.html
 
 
 Project Structure
-text
 chess-board/
 ├── index.html
 ├── style.css
@@ -44,3 +43,7 @@ Sejal Kanam
 
 
 GitHub: sejalkanam90
+
+## 📄 License
+
+This project is open-source and free to use.
