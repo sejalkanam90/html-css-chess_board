@@ -4,7 +4,7 @@ A clean, semantic chessboard implementation using HTML5 and CSS3.
 
 ## Repository
 
-[https://github.com/username/chess-board](https://github.com/username/chess-board)
+https://github.com/sejalkanam90/html-css-chess_board.git
 
 ## Screenshot
 
@@ -43,4 +43,4 @@ Author
 Sejal Kanam
 
 
-GitHub: 
+GitHub: sejalkanam90
