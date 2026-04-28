@@ -63,4 +63,4 @@ A clean, working chessboard that looks like a real chess starting position.
 
 ## Project Link
 
-[GitHub Repository](https://github.com/YOUR_USERNAME/Chess-Board)
+https://github.com/sejalkanam90/html-css-chess_board.git
